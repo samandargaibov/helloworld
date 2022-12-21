@@ -12,3 +12,17 @@ C:\Users\samandarrg\source\repos\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.cspro
 C:\Users\samandarrg\source\repos\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.dll
 C:\Users\samandarrg\source\repos\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.pdb
 C:\Users\samandarrg\source\repos\ders2\ders2\obj\Debug\netcoreapp3.1\ders2.genruntimeconfig.cache
+C:\Users\samandarrg\Desktop\helloworld\ders2\bin\Debug\netcoreapp3.1\ders2.exe
+C:\Users\samandarrg\Desktop\helloworld\ders2\bin\Debug\netcoreapp3.1\ders2.deps.json
+C:\Users\samandarrg\Desktop\helloworld\ders2\bin\Debug\netcoreapp3.1\ders2.runtimeconfig.json
+C:\Users\samandarrg\Desktop\helloworld\ders2\bin\Debug\netcoreapp3.1\ders2.runtimeconfig.dev.json
+C:\Users\samandarrg\Desktop\helloworld\ders2\bin\Debug\netcoreapp3.1\ders2.dll
+C:\Users\samandarrg\Desktop\helloworld\ders2\bin\Debug\netcoreapp3.1\ders2.pdb
+C:\Users\samandarrg\Desktop\helloworld\ders2\obj\Debug\netcoreapp3.1\ders2.csproj.AssemblyReference.cache
+C:\Users\samandarrg\Desktop\helloworld\ders2\obj\Debug\netcoreapp3.1\ders2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samandarrg\Desktop\helloworld\ders2\obj\Debug\netcoreapp3.1\ders2.AssemblyInfoInputs.cache
+C:\Users\samandarrg\Desktop\helloworld\ders2\obj\Debug\netcoreapp3.1\ders2.AssemblyInfo.cs
+C:\Users\samandarrg\Desktop\helloworld\ders2\obj\Debug\netcoreapp3.1\ders2.csproj.CoreCompileInputs.cache
+C:\Users\samandarrg\Desktop\helloworld\ders2\obj\Debug\netcoreapp3.1\ders2.dll
+C:\Users\samandarrg\Desktop\helloworld\ders2\obj\Debug\netcoreapp3.1\ders2.pdb
+C:\Users\samandarrg\Desktop\helloworld\ders2\obj\Debug\netcoreapp3.1\ders2.genruntimeconfig.cache
