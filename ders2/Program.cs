@@ -27,6 +27,7 @@ namespace ders2
                 Console.WriteLine($"Ferq: {a}-{b}={c}");
             }
             Console.Write("hello");
+            Console.WriteLine("merge to master");
         }
     }
 }
