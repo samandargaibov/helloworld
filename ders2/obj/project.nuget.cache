@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "A+gfGWvbw+/NgfFB3dkkmbGSnJc1aJ32Z/uyooy1Nd4QfLF4FyvUA7ex7/1KAVQ1RHia5xrOKk9pqq5nLXtT9w==",
+  "dgSpecHash": "kCKs1UucL/5dnEHpXHUWMQvVNvoSrITcjUr5xdlVedgcCAZIBD/6GUrBeoC02ipjh0o+K9OXwrF5/Varh0keqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samandarrg\\Desktop\\helloworld\\ders2\\ders2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\CodeProjects\\P329\\Samandar\\helloworld\\ders2\\ders2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafetr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

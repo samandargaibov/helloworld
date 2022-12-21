@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samandarrg\\Desktop\\helloworld\\ders2\\ders2.csproj": {}
+    "D:\\CodeProjects\\P329\\Samandar\\helloworld\\ders2\\ders2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samandarrg\\Desktop\\helloworld\\ders2\\ders2.csproj": {
+    "D:\\CodeProjects\\P329\\Samandar\\helloworld\\ders2\\ders2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samandarrg\\Desktop\\helloworld\\ders2\\ders2.csproj",
+        "projectUniqueName": "D:\\CodeProjects\\P329\\Samandar\\helloworld\\ders2\\ders2.csproj",
         "projectName": "ders2",
-        "projectPath": "C:\\Users\\samandarrg\\Desktop\\helloworld\\ders2\\ders2.csproj",
-        "packagesPath": "C:\\Users\\samandarrg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samandarrg\\Desktop\\helloworld\\ders2\\obj\\",
+        "projectPath": "D:\\CodeProjects\\P329\\Samandar\\helloworld\\ders2\\ders2.csproj",
+        "packagesPath": "C:\\Users\\rafetr\\.nuget\\packages\\",
+        "outputPath": "D:\\CodeProjects\\P329\\Samandar\\helloworld\\ders2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samandarrg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\rafetr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,16 +45,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.30, 3.1.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
