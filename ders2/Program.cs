@@ -11,9 +11,19 @@ namespace ders2
             Console.Write("2ci ededi daxil edin: ");
             int b = Convert.ToInt32(Console.ReadLine());
 
-            int c = a + b;
+            if (a < b)
+            {
+                int c = a + b;
+                Console.WriteLine($"Cemi: {a}+{b}={c}");
+            }
+            else
+            {
+                int c = a - b;
+                Console.WriteLine($"Ferq: {a}-{b}={c}");
+            }
+            
 
-            Console.WriteLine($"Cemi: {a}+{b}={c}");
+            
         }
     }
 }
