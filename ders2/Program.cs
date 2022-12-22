@@ -16,6 +16,11 @@ namespace ders2
                 int c = a + b;
                 Console.WriteLine($"Cemi: {a}+{b}={c}");
             }
+            else if (a == b)
+            {
+                int c = a * b;
+                Console.WriteLine($"Hasil: {a}*{b}={c}");
+            }
             else
             {
                 int c = a - b;
