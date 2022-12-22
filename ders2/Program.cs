@@ -21,9 +21,9 @@ namespace ders2
                 int c = a - b;
                 Console.WriteLine($"Ferq: {a}-{b}={c}");
             }
-            
+            Console.WriteLine("test");
 
-            
+
         }
     }
 }
